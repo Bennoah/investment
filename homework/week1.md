@@ -24,5 +24,8 @@ This is ideal for beginners. It usually involves buying a stock, preferably an E
   - Nvidia
   - Intel
 - Look at their stock price through the years - 1 year, 5 years, max
+  - done
 - Open a brokerage account
+  - done
 - Fund your investment account
+  - done
